@@ -1,0 +1,14 @@
+Hello, this is dhanasekar from Creators Lab. I have shared here RC plane Controlled by nRF24L01 & Arduino,. Attached code and complete details here,.
+Thank you.
+
+Required Components :
+
+Arduino Uno
+Arduino Nano
+NRF24L01 PA + LNA Transceiver modules
+1000KV brushless Motor, 30A Speed controller, and Propellers
+11.1V 2200mAh Lipo Battery Pack (best offer 2 pieces)
+Micro Servo Motor (best offer 2 pieces)
+2-Axis Analog Joystick
+SU-27 RC Plane Kit
+
